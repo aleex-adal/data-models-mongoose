@@ -1,0 +1,2 @@
+{"_id":{"$numberInt":"0"},"name":"something"}
+{"_id":{"$numberInt":"1"},"name":"something else"}
